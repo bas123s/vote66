@@ -5,8 +5,8 @@ class conn_main_class {
 //ประกาศตัวแปรที่ต้องใช้ใน class
   public $server_type = "mysql";
   public $servername = "61.91.5.142";
-  public $username = "icad";
-  public $password = "ic@d0317";
+  public $username = "yourusername";
+  public $password = "yourpassword";
   //
 //  public $servername = "localhost";
 //  public $username = "root";
